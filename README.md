@@ -15,4 +15,4 @@ Program ustala środowisko w jakim działa w oparciu o katalog /dev/. Przy każd
 Gdy użytkownik odczytuje pliki z mojego systemu plików, system wyszukuje je w odpowiednim folderze i zwraca odpowidnie informacje lub zawartość.  
 
 Przykładowe użycie programu:
-![alt tag](https://raw.github.com/matips/ps-agh-project/new/master/screenshot.png)
+![screenshot](https://github.com/matips/ps-agh-project/blob/master/screenshot.png)
