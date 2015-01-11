@@ -14,5 +14,7 @@ Program ustala środowisko w jakim działa w oparciu o katalog /dev/. Przy każd
   <storage>/<hash srodowiska>/<sciezka pliku uzytkownika> 
 Gdy użytkownik odczytuje pliki z mojego systemu plików, system wyszukuje je w odpowiednim folderze i zwraca odpowidnie informacje lub zawartość.  
 
+
 Przykładowe użycie programu:
+
 ![screenshot](https://github.com/matips/ps-agh-project/blob/master/screenshot.png)
